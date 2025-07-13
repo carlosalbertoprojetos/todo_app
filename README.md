@@ -24,7 +24,8 @@ Esta aplicação fornece uma API básica de gerenciamento de tarefas (to-do list
 
 ### 1. Clone ou acesse a pasta do projeto
 ```bash
-cd todo_app_junior
+cd todo_app
+
 ```
 
 ### 2. (Opcional) Crie um ambiente virtual
